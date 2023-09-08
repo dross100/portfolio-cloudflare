@@ -22,7 +22,7 @@ const Home = () => {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Daniel ROss</strong>
+                <strong className="main-name"> Daniel Ross</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
