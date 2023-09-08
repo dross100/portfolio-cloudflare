@@ -68,35 +68,13 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://twitter.com/19sajib"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour  home-social-icons"
-                      aria-label="twitter"
-                    >
-                      <AiOutlineTwitter />
-                    </a>
-                  </li>
-                  <li className="social-icons">
-                    <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/in/daniel-ross-941517234/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
                       aria-label="linkedin"
                     >
                       <FaLinkedinIn />
-                    </a>
-                  </li>
-                  <li className="social-icons">
-                    <a
-                      href="https://www.instagram.com/19sajib"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour home-social-icons"
-                      aria-label="instagram"
-                    >
-                      <AiFillInstagram />
                     </a>
                   </li>
                 </ul>
